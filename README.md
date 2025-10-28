@@ -41,7 +41,7 @@ Uso de **Isar** para almacenamiento offline, con opción futura de sincronizaci�
 | ![AppControl](readme-assets/appcontrol3.jpeg) | ![AppScore](readme-assets/appscore2.png) |
 | Control conexion | score Poomsae|
 |--------------------|----------------|
-| ![AppControl](readme-assets/appcontrol1.jpeg) | ![AppScore](readme-assets/appscorer.png) |
+| ![AppControl](readme-assets/appcontrol1.jpeg) | ![AppScore](readme-assets/appscore5.png) |
 
 *(Imágenes de demostración del sistema en acción)*
 
