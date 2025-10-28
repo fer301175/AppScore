@@ -32,9 +32,16 @@ Uso de **Isar** para almacenamiento offline, con opción futura de sincronizaci�
 
 ## Vista previa
 
-| Control móvil (AppControl) | Pantalla de puntuación (AppScore) |
+| Control móvil inicio (AppControl) | Pantalla de seleccion (AppScore) |
 |-----------------------------|-----------------------------------|
-| ![AppControl](readme-assets/appcontrol.jpg) | ![AppScore](readme-assets/appscore.jpg) |
+| ![AppControl](readme-assets/appcontrol.jpeg) | ![AppScore](readme-assets/appscore.png) |
+
+| Pantalla de control | score Kiorugi |
+|---------------------|-----------------|
+| ![AppControl](readme-assets/appcontrol3.jpeg) | ![AppScore](readme-assets/appscore2.png) |
+| Control conexion | score Poomsae|
+|--------------------|----------------|
+| ![AppControl](readme-assets/appcontrol1.jpeg) | ![AppScore](readme-assets/appscorer.png) |
 
 *(Imágenes de demostración del sistema en acción)*
 
